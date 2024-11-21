@@ -10,7 +10,7 @@ The pages of the Application that you visit, the time and date of your visit, th
 The time spent on the Application
 The operating system you use on your mobile device
 
-The Application does not gather precise information about the location of your mobile device.
+The Application requests location access to calculate the direction to the Kaaba for prayer. This data is only used locally on the device and is not shared with any third parties
 
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
